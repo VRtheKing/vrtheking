@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [vrtheking.tk](vrtheking.tk)
 
-- 📝 I regularly write articles on [codernews.ml](codernews.ml)
-
 - 📫 How to reach me **mvram200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
