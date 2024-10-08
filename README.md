@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [vrtheking.tk](vrtheking.tk)
+- 👨‍💻 All of my projects are available at my [linktree](https://linktr.ee/mvram)
 
 - 📫 How to reach me **mvram200@gmail.com**
 
